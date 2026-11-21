@@ -1,5 +1,4 @@
 package com.automation;
-
 import org.testng.annotations.Test;
 import com.automation.base.BaseTest;
 
